@@ -1,3 +1,3 @@
 ### Learn more about me here ⬇
 
-[![](amitmerchant_banner.png)](http://amitmerchant.com/)
+[![](https://raw.githubusercontent.com/amitmerchant1990/amitmerchant1990/master/amitmerchant_banner.png)](http://amitmerchant.com/)
