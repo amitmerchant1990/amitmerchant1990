@@ -1,4 +1,4 @@
-## Things I have built or working on
+## Things I have built or been working on
 
 - [AmitMerchant.com](https://amitmerchant.com/) — Writing
 - [Notepad](https://notepad.js.org/) — An offline-first notepad
