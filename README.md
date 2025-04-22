@@ -2,6 +2,7 @@
 
 - [AmitMerchant.com](https://amitmerchant.com/) — Writing
 - [Notepad](https://notepad.js.org/) — An offline-first notepad
+- [Night Clock](https://play.google.com/store/apps/details?id=com.amitmerchant.nightclockalwayson) - A minimal Android app that lets you use your phone as a bed side clock.
 - [Markdownify](https://markdownify.js.org/) — A minimal Markdown editor
 - [LinkSnatch](https://linksnatch.pages.dev/) — Dead simple bookmarks
 - [Mac Treasure](https://mactreasure.com/) — A Curated List of macOS Apps
