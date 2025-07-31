@@ -11,3 +11,7 @@
 - [ConsolePad](https://github.com/amitmerchant1990/consolepad) — The missing notepad in your DevTools
 - [Sole](https://github.com/amitmerchant1990/sole) — Jot down only one thing at a time
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) — A pomodoro app for your menubar/tray
+
+⭐️ [Nominate me for the GitHub Stars program if you like what I do](https://stars.github.com/nominate/)
+
+❤️ [Buy Me a Coffee to support my work](https://buymeacoffee.com/amitmerchant)
