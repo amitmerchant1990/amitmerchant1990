@@ -11,6 +11,7 @@
 - [ConsolePad](https://github.com/amitmerchant1990/consolepad) — The missing notepad in your DevTools
 - [Sole](https://github.com/amitmerchant1990/sole) — Jot down only one thing at a time
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) — A pomodoro app for your menubar/tray
+- [Sonora](https://chromewebstore.google.com/detail/sonora-%E2%80%94-an-ambient-sound/aomipjfbinoopinpmickhecbijdffkeo?authuser=0&hl=en-GB) — A minimal Chrome extension for mixing ambient sounds
 
 ##
 
